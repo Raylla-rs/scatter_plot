@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 #load the data
 diabetes=datasets.load_diabetes()
 
-#you can find more styles to your graph on matplotlib website
+#you can find more styles for your graph on matplotlib website
 plt.style.use('bmh')
 
 plt.title('Graph', loc='left')
